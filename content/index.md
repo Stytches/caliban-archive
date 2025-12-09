@@ -1,20 +1,18 @@
 # Character Sheet: Caliban
 
-**Character Name:** Caliban  
-**Player:**  
-**Chronicle:**  
-**Nature:** [[#Nature Pedagogue|Pedagogue]]  
-**Demeanor:** [[#Demeanor Traditionalist|Traditionalist]]  
-**Concept:** The Scholar of Dust
-**Philosophy:** [[Caliban_Philosophy|The Pedagogy of Dust]]
-**Clan:** Malkavian
-**Sire:**  **Dr. Aris Thorne**
-**Generation:** 11th (via Background)
-**Date of Birth:** October 13, 1942
-**Date of Embrace:** November 2, 1975 (20 years undead)
-**Apparent Age:** Early 30s (Gaunt)
-**Height:** 6'2" (188 cm)
-**Weight:** 145 lbs (66 kg)
+- **Character Name:** Caliban
+- **Nature:** [[#Nature Pedagogue|Pedagogue]]  
+- **Demeanor:** [[#Demeanor Traditionalist|Traditionalist]]  
+- **Concept:** The Scholar of Dust
+- **Philosophy:** [[Caliban_Philosophy|The Pedagogy of Dust]]
+- **Clan:** Malkavian
+- **Sire:**  **Dr. Aris Thorne**
+- **Generation:** 11th (via Background)
+- **Date of Birth:** October 13, 1942
+- **Date of Embrace:** November 2, 1975 (20 years undead)
+- **Apparent Age:** Early 30s (Gaunt)
+- **Height:** 6'2" (188 cm)
+- **Weight:** 145 lbs (66 kg)
 
 ---
 
@@ -143,7 +141,7 @@ This specialty is not a formal rule term from the book, but a thematically appro
   - Stalking prey in low light, especially when you can move from one shadow to another.  
   - Performing **ambushes** using Obfuscate 2 (Unseen Presence) from cover. The standard V20 ambush rule is **Dexterity + Stealth vs. Perception + Alertness**; if you win, you get an undefended attack and add extra successes to your attack pool.  
 
-**In play:** When describing Caliban’s movement as melting into alcoves, doorframes, or broken patches of light and shade, this signals that I'm intending to engage **Moving Through Shadows** specialty is engaged. This reinforces the Sluagh theme: he doesn’t just hide, he *belongs* to dark corners.
+**In play:** When describing Caliban’s movement as melting into alcoves, doorframes, or broken patches of light and shade, this signals that I'm intending to engage his **Moving Through Shadows** specialty. This reinforces the Sluagh theme: he doesn’t just hide, he *belongs* to dark corners.
 
 ---
 
