@@ -141,7 +141,7 @@ This specialty is not a formal rule term from the book, but a thematically appro
   - Stalking prey in low light, especially when you can move from one shadow to another.  
   - Performing **ambushes** using Obfuscate 2 (Unseen Presence) from cover. The standard V20 ambush rule is **Dexterity + Stealth vs. Perception + Alertness**; if you win, you get an undefended attack and add extra successes to your attack pool.  
 
-**In play:** When describing Caliban’s movement as melting into alcoves, doorframes, or broken patches of light and shade, this signals that I'm intending to engage his **Moving Through Shadows** specialty. This reinforces the Sluagh theme: he doesn’t just hide, he *belongs* to dark corners.
+**In play:** When describing Caliban’s movement as melting into alcoves, doorframes, or broken patches of light and shade, this signals that he is intending to engage his **Moving Through Shadows** specialty. This reinforces the Sluagh theme: he doesn’t just hide, he *belongs* to dark corners.
 
 ---
 
@@ -155,7 +155,7 @@ At his core, Caliban is driven to **teach**, even when his methods are cruel, in
 - He frames his entire existence as an ongoing curriculum: every conversation is a lesson, every secret is a carefully chosen reading assignment, every scar is a grade written into the flesh.  
 - He is patient but uncompromising. If a student refuses to learn gently, he escalates the lesson until reality itself forces the point. In his mind, this is mercy: a painful truth is better than a comforting lie that gets you killed.
 
-**In character:** when you ask a price for a secret, you are not being petty—you are ensuring the recipient is *invested* enough to actually grow from what you are about to reveal.
+**In character:** when he asks a price for a secret, he is not being petty—he is ensuring the recipient is *invested* enough to actually grow from what he is about to reveal.
 
 ### Demeanor: Traditionalist
 
