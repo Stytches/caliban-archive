@@ -8,7 +8,7 @@
 **Concept:** The Scholar of Dust
 **Philosophy:** [[Caliban_Philosophy|The Pedagogy of Dust]]
 **Clan:** Malkavian
-**Sire:**  
+**Sire:**  **Dr. Aris Thorne**
 **Generation:** 11th (via Background)
 **Date of Birth:** October 13, 1942
 **Date of Embrace:** November 2, 1975 (20 years undead)
@@ -21,6 +21,10 @@
 ## Goals: [[Caliban_Philosophy|The Pedagogy of Dust]]
 
 Caliban operates as a "Good Nightmare," driven by a twisted Seelie code to strengthen the world through fear. He believes Kindred society has grown soft and careless, so he administers "kindly warnings"—calculated traumas and exposed secrets designed to force vigilance. His goal is not to destroy, but to teach; he breaks bones so they knit back stronger, ensuring his allies are hardened enough to survive the coming Winter.
+
+---
+
+## Backstory: [[Caliban_Backstory.md|Caliban’s History: The Scholar of Dust]]
 
 ---
 
@@ -100,8 +104,8 @@ Caliban operates as a "Good Nightmare," driven by a twisted Seelie code to stren
 
 ## Equipment
 
-- **Right Hand:** [[Sword_Cane|The Gentleman's Sword Cane]] (Rapier)
-- **Left Hand:** [[Main_Gauche|The Main-Gauche]] (Parrying Dagger)
+- **Right Hand:** [[Sword_Cane|Gentleman's Sword Cane]] (Rapier)
+- **Left Hand:** [[Main_Gauche|Main-Gauche]] (Parrying Dagger)
 - **Clothing:** Threadbare but high-quality tweed suit, long wool coat (conceals dagger).
 - **Misc:** A silver cigarette case containing **12 silver coffin nails**, a notebook of "observations," a pair of grey silk gloves, [[Antique_Lockpicks|Antique Locksmith's Set]].
 
@@ -114,13 +118,7 @@ Caliban operates as a "Good Nightmare," driven by a twisted Seelie code to stren
 **What it means:**  
 Caliban is a classically trained scholar (Language: **Latin**), but his education didn't stop at grammar. He specializes in texts written to *conceal* rather than communicate—alchemical manuscripts, hermetic warnings, and the coded journals of paranoid elders. He reads the "silence" between the words.
 
-**Mechanically in V20:**  
-
-- Since Caliban only has **Linguistics 1**, he does not yet qualify for a mechanical specialty (which requires 4 dots).  
-- However, this "focus" informs how the Storyteller should interpret his knowledge. He isn't just translating; he is decoding.
-- **In play:** Caliban is the one you hand the dusty tome to. He doesn't just translate the Latin; he tells you that the author was afraid when they wrote it, and that the third paragraph is a warning not to turn the page.
-
-### Combat Style: The Anatomical Edit (Florentine)
+### Combat Style: The Geometry of Decay
 
 **Weapons:** Rapier (Sword Cane) & Main-Gauche (Parrying Dagger).
 
@@ -130,7 +128,7 @@ Caliban does not "brawl"; he corrects errors in his opponent's biology. He uses 
 **Mechanically in V20:**  
 
 - He fights with **Dexterity (4) + Melee (3)**.
-- **Two-Weapon Fighting:** While he lacks the Ambidexterity merit, this style focuses on defense and riposte. He uses the rapier to parry (adding to defense) and the dagger to strike when the opponent overextends.
+- **Two-Weapon Fighting:** Lacking the Ambidexterity merit, he often **splits his dice pool** to fight defensively (Parry + Strike). When striking with his off-hand (main-gauche), he suffers a **+2 difficulty penalty**. However, he can choose to commit to a **single action**—either a focused attack with the rapier or a dedicated **Full Defense**—to utilize his full dice pool (7 dice) without penalty. This allows him to switch between a "whittling" defensive style and sudden, precise lethality.
 - **The Sword Cane:** Allows him to carry a lethal weapon into Elysium or high-society functions without breaking etiquette. It reinforces his "Old Money" facade.
 
 ### Stealth – Specialty: Moving Through Shadows
