@@ -1,14 +1,13 @@
 # Character Sheet: Caliban
 
 **Character Name:** Caliban  
-**Player:**  
 **Chronicle:**  
 **Nature:** [[#Nature Pedagogue|Pedagogue]]  
 **Demeanor:** [[#Demeanor Traditionalist|Traditionalist]]  
 **Concept:** The Scholar of Dust
 **Philosophy:** [[Caliban_Philosophy|The Pedagogy of Dust]]
 **Clan:** Malkavian
-**Sire:**  
+**Sire:** **Dr. Aris Thorne**
 **Generation:** 11th (via Background)
 **Date of Birth:** October 13, 1942
 **Date of Embrace:** November 2, 1975 (20 years undead)
