@@ -282,12 +282,6 @@ Since Caliban is a stealth specialist, his inability to enter without permission
 
 ---
 
-## Scripts and Behavior by Situation
-
-[[Caliban_Scripts|Detailed Scripts and Behavior]]
-
----
-
 ## The Freebie Point Spend (22 Points)
 
 **Source:** 15 Base + 7 from Flaws ([[#Speech Impediment (Mental, 1 pt)|Speech Impediment]], [[#Eerie Presence (Supernatural, 2 pts)|Eerie Presence]], [[#Shy (Mental, 1 pt)|Shy]], [[#Nightmares (Mental, 1 pt)|Nightmares]], [[#Touch of Frost (Supernatural, 1 pt)|Touch of Frost]], [[#Tic / Twitch (Physical, 1 pt)|Tic/Twitch]])
