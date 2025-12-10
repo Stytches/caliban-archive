@@ -82,9 +82,13 @@ Caliban operates as a "Good Nightmare," driven by a twisted Seelie code to stren
 
 ### Disciplines
 
-- **Auspex:** 1 (Heightened Senses)  
-- **Dementation:** 1 (Passion)  
-- **Obfuscate:** 2 (Unseen Presence)  
+- **[[Auspex]]:** 1
+  - [[Auspex#Level 1: Heightened Senses|Heightened Senses]]
+- **[[Dementation]]:** 1
+  - [[Dementation#Level 1: Passion|Passion]]
+- **[[Obfuscate]]:** 2
+  - [[Obfuscate#Level 1: Cloak of Shadows|Cloak of Shadows]]
+  - [[Obfuscate#Level 2: Unseen Presence|Unseen Presence]]
 
 ### Backgrounds
 
