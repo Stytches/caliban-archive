@@ -33,7 +33,7 @@ Caliban operates on the Sluagh principle that **secrets are for saving, not just
 
 When he uncovers a Prince's betrayal or a rival's weakness, he does not immediately use it for profit. He reveals it in a way that forces the recipient to grow.
 
-* *Example:* He won't just kill an assassin stalking his ally. He will leave the assassin's dagger on his ally's pillow with a note: *"The silence found you sleeping. I have swept the dust from your grave this once. Next time, I will let the rot claim its due."*
+* *Example:* He won't just kill an assassin stalking his ally. He will leave the assassin's dagger on his ally's pillow with a note: *"The silence found you sleeping. I have swept the dust from your grave this once. Do try to wake up; the worms are getting impatient."*
 
 ## The Endgame
 

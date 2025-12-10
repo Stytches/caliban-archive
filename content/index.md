@@ -11,14 +11,18 @@
 - **Date of Birth:** October 13, 1942
 - **Date of Embrace:** November 2, 1975 (20 years undead)
 - **Apparent Age:** Early 30s (Gaunt)
-- **Height:** 6'2" (188 cm)
-- **Weight:** 145 lbs (66 kg)
+- **Height:** 6'2"
+- **Weight:** 145 lbs
 
 ---
 
 ## Goals: [[Caliban_Philosophy|The Pedagogy of Dust]]
 
 Caliban operates as a "Good Nightmare," driven by a twisted Seelie code to strengthen the world through fear. He believes Kindred society has grown soft and careless, so he administers "kindly warnings"—calculated traumas and exposed secrets designed to force vigilance. His goal is not to destroy, but to teach; he breaks bones so they knit back stronger, ensuring his allies are hardened enough to survive the coming Winter.
+
+## Perspectives: [[Caliban_Opinions|The Taxonomy of Rot]]
+
+## Feeding: [[Caliban_Feeding|The Tithe of Breath]]
 
 ---
 
@@ -154,8 +158,9 @@ At his core, Caliban is driven to **teach**, even when his methods are cruel, in
 - He regains Willpower when someone **genuinely learns** from him—when a coterie member takes his warning to heart, when a mortal faces a fear he orchestrated and comes out stronger, when even an enemy walks away changed by the horror he revealed.  
 - He frames his entire existence as an ongoing curriculum: every conversation is a lesson, every secret is a carefully chosen reading assignment, every scar is a grade written into the flesh.  
 - He is patient but uncompromising. If a student refuses to learn gently, he escalates the lesson until reality itself forces the point. In his mind, this is mercy: a painful truth is better than a comforting lie that gets you killed.
+- **The Glint:** There is a dry, dusty humor in his lessons. He appreciates the irony of a monster teaching humanity to humans. When a plan comes together perfectly, or a student finally "gets it" in a moment of sheer panic, he might offer a rare, thin smile—not of cruelty, but of satisfaction at a well-told joke.
 
-**In character:** when he asks a price for a secret, he is not being petty—he is ensuring the recipient is *invested* enough to actually grow from what he is about to reveal.
+**In character:** when he asks a price for a secret, he is not being petty—he is ensuring the recipient is *invested* enough to actually grow from what he is about to reveal. And perhaps, he is also enjoying the look on their face when they realize the cost.
 
 ### Demeanor: Traditionalist
 
@@ -165,7 +170,7 @@ On the surface, Caliban appears as a **clinging ghost of old etiquette**. Tradit
 - Others see him as conservative, rigid, or anachronistic. His threadbare but fine-cut clothing, his whispered honorifics, and his rituals of address all signal that he lives in a different, older social logic.  
 - He often couches his advice and warnings in the language of protocol: "It is improper to invite the rot without first preparing the house," or "It would be… discourteous to let the silence fester without addressing it, my Prince."
 
-**In character:** the Traditionalist mask is both a shield and a teaching tool. It makes him easy to underestimate as "just a stuffy relic," which gives him room to observe. It also gives him a framework to **impose** structure on others: by insisting on certain forms of address, formal bargains, and the paying of prices, he forces people to slow down and *think*—which is exactly what a Pedagogue wants.
+**In character:** the Traditionalist mask is both a shield and a teaching tool. It makes him easy to underestimate as "just a stuffy relic," which gives him room to observe. It also gives him a framework to **impose** structure on others: by insisting on certain forms of address, formal bargains, and the paying of prices, he forces people to slow down and *think*—which is exactly what a Pedagogue wants. Plus, watching a Brujah try to bow correctly is endlessly entertaining.
 
 ---
 
