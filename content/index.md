@@ -24,8 +24,6 @@ Caliban operates as a "Good Nightmare," driven by a twisted Seelie code to stren
 
 ## Feeding: [[Caliban_Feeding|The Tithe of Breath]]
 
----
-
 ## Backstory: [[Caliban_Backstory.md|Caliban’s History: The Scholar of Dust]]
 
 ---

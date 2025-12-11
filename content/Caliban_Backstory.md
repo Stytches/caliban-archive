@@ -55,7 +55,7 @@ Thorne treats Caliban not as a childe, but as his **Magnum Opus**.
 
 One might ask how Thorne's philosophy—stripping away human emotion—survives in the Camarilla, which mandates the preservation of Humanity.
 
-**How Caliban's situation is relates to the factions:**
+**How Caliban's situation relates to the factions:**
 
 **The Camarilla:**
 Thorne presents himself as a hyper-traditionalist. He argues that the Masquerade is not about *feeling* human, but about *performing* humanity with absolute precision.
