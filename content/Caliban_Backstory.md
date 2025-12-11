@@ -85,4 +85,4 @@ The Camarilla does not care about Caliban's suffering; they care about his *util
 
 * **Leash:** Currently, Caliban is allowed to operate with a coterie because Thorne considers it "Field Work"—a stress test for his creation.
 * **Threat:** The local Prince or Sheriff is likely watching. They see Caliban as a ticking time bomb. If he snaps, they will put him down instantly. But as long as he remains the "perfect gentleman," they are content to let Thorne continue his experiment.
-* **Opportunity:** Savvy political operators (like a Seneschal or Harpy) might realize that Caliban is desperate for structure. If they can replace Thorne as his "authority figure," they could steal a very loyal, very dangerous weapon without ever drawing a weapon.
+* **Opportunity:** Savvy political operators (like a Seneschal or Harpy) might realize that Caliban is desperate for structure. If they can replace Thorne as his "authority figure," they could steal a very loyal, very dangerous weapon without ever drawing a blade.
