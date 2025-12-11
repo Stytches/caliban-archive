@@ -11,6 +11,7 @@
 - **Date of Birth:** October 13, 1942
 - **Date of Embrace:** November 2, 1975 (20 years undead)
 - **Apparent Age:** Early 30s (Gaunt)
+- **Description:** [[Caliban_Description|The Ghost in Tweed]]
 - **Height:** 6'2"
 - **Weight:** 145 lbs
 
