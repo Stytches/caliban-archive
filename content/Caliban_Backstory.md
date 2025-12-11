@@ -86,3 +86,27 @@ The Camarilla does not care about Caliban's suffering; they care about his *util
 * **Leash:** Currently, Caliban is allowed to operate with a coterie because Thorne considers it "Field Work"—a stress test for his creation.
 * **Threat:** The local Prince or Sheriff is likely watching. They see Caliban as a ticking time bomb. If he snaps, they will put him down instantly. But as long as he remains the "perfect gentleman," they are content to let Thorne continue his experiment.
 * **Opportunity:** Savvy political operators (like a Seneschal or Harpy) might realize that Caliban is desperate for structure. If they can replace Thorne as his "authority figure," they could steal a very loyal, very dangerous weapon without ever drawing a blade.
+
+## Means of Support: The Economy of Dust
+
+Caliban has no bank account, no credit cards, and no official identity. He exists in the cracks of the economy, scraping together just enough cash to maintain his haven and his wardrobe. He views money as "vulgar but necessary fuel," much like blood.
+
+### 1. The Mercenary Bibliophile (Academics/Investigation)
+
+Caliban operates as a "book detective" for the occult underground—a shadow-bound Dean Corso. He specializes in the authentication and retrieval of texts that are not meant to be found.
+
+* **The Method:** He haunts estate sales of the recently deceased, smelling out the "wrong" books before the heirs even know they exist. He relies on **Auspex 1 (Heightened Senses)** for forensic precision. He can *smell* the specific chemical decay of 17th-century rag paper versus modern wood pulp. He can *feel* the microscopic bite of a printing press on a page that looks flat to the naked eye. He doesn't find books by magic; he finds them by noticing the details everyone else ignores.
+* **The Clients:** He accepts commissions from wealthy mortal collectors who ask no questions, and from Kindred (particularly Tremere or Elders) who need a grimoire retrieved without leaving a political trail. He is known for his absolute discretion and his ability to walk into a locked library and walk out with a single volume, leaving the rest of the shelf undisturbed.
+* **The Income:** This is his primary and favored trade. He negotiates fees with the cold detachment of a coroner. He prefers payment in gold coins, jewelry, or favors, but will accept cash if it is old and untraceable. A single "found" manuscript can sustain his frugal existence for a season.
+
+### 2. The Silent Courier (Obfuscate/Stealth)
+
+For the criminal underworld (and occasionally other Kindred), Caliban offers a service no human can match: absolute, invisible delivery. He does not ask what is in the package. He simply guarantees it will move from Point A to Point B without ever being seen.
+
+* **The Income:** Paid in untraceable cash or barter. He charges a premium for "rush" jobs that require him to cross dangerous domains.
+
+### 3. The "Locksmith" (Larceny)
+
+Caliban has a fascination with mechanisms and barriers. He offers his services to open things that have been lost or sealed—safes in foreclosed homes, antique lockboxes found by heirs who lost the key, or more illicit barriers for his coterie.
+
+* **The Income:** He often takes his payment in "trade"—keeping a trinket from inside the safe rather than cash, unless he is desperate. He considers opening a lock to be a form of "liberating" the object inside.
