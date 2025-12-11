@@ -34,4 +34,4 @@ He views blood not just as fuel, but as **memory** and **momentum**. When he dri
 
 He **refuses** to feed on children or the truly innocent (those who have not yet accumulated "dust"). Their blood is too bright, too loud, and too chaotic. It burns him like sunlight. It is like trying to drink static electricity.
 
-He also avoids the highly intoxicated. While his Sluagh instincts draw him to decay, he distinguishes between the **dry rot** of age (which he savors) and the **wet rot** of poison. To him, a drunkard is not decaying; they are merely fermenting—a sloppy, noisy process he finds undignified.
+He also avoids the highly intoxicated. While his [[Sluagh]] instincts draw him to decay, he distinguishes between the **dry rot** of age (which he savors) and the **wet rot** of poison. To him, a drunkard is not decaying; they are merely fermenting—a sloppy, noisy process he finds undignified.

@@ -147,7 +147,7 @@ This specialty is not a formal rule term from the book, but a thematically appro
   - Stalking prey in low light, especially when you can move from one shadow to another.  
   - Performing **ambushes** using Obfuscate 2 (Unseen Presence) from cover. The standard V20 ambush rule is **Dexterity + Stealth vs. Perception + Alertness**; if you win, you get an undefended attack and add extra successes to your attack pool.  
 
-**In play:** When describing Caliban’s movement as melting into alcoves, doorframes, or broken patches of light and shade, this signals that he is intending to engage his **Moving Through Shadows** specialty. This reinforces the Sluagh theme: he doesn’t just hide, he *belongs* to dark corners.
+**In play:** When describing Caliban’s movement as melting into alcoves, doorframes, or broken patches of light and shade, this signals that he is intending to engage his **Moving Through Shadows** specialty. This reinforces the [[Sluagh]] theme: he doesn’t just hide, he *belongs* to dark corners.
 
 ---
 
@@ -178,11 +178,11 @@ On the surface, Caliban appears as a **clinging ghost of old etiquette**. Tradit
 
 ## Origin: The Hollowed Kinain
 
-In life, Caliban was "Kinain"—a human carrying dormant fae blood, specifically of Sluagh heritage. He was always weird, quiet, and able to see things others couldn't, waiting for a "Chrysalis" (awakening) that never came.
+In life, Caliban was "Kinain"—a human carrying dormant fae blood, specifically of [[Sluagh]] heritage. He was always weird, quiet, and able to see things others couldn't, waiting for a "Chrysalis" (awakening) that never came.
 
 The Embrace destroyed his chance to become a changeling. The Curse of Caine killed the fae spark within him, leaving a gaping, spiritual wound. His Malkavian madness rushed in to fill that void, calcifying into a twisted parody of what he *should* have been.
 
-He is a "Rotten Sluagh." He has all the instincts, the etiquette, and the affinity for shadows, but it is cold, dead, and static. Real changelings find him repulsive—like looking at a taxidermied relative. His fractured mind still receives "echoes" from the Dreaming, but they are distorted, nightmarish, and distant.
+He is a "Rotten [[Sluagh]]." He has all the instincts, the etiquette, and the affinity for shadows, but it is cold, dead, and static. Real changelings find him repulsive—like looking at a taxidermied relative. His fractured mind still receives "echoes" from the Dreaming, but they are distorted, nightmarish, and distant.
 
 He possesses a deep, melancholy longing for the "Dreaming" that he can never touch. He collects fae trinkets not out of desire for magic, but out of grief.
 
@@ -190,13 +190,13 @@ He possesses a deep, melancholy longing for the "Dreaming" that he can never tou
 
 ## Flaws and Their Presentation
 
-Caliban’s flaws are not random weaknesses; they are facets of his Sluagh-like condition. Each one should be played as part of the same fae etiquette curse, reinforcing the sense that he is the ghost of a long-dead gentleman bound by old rules.
+Caliban’s flaws are not random weaknesses; they are facets of his [[Sluagh]]-like condition. Each one should be played as part of the same fae etiquette curse, reinforcing the sense that he is the ghost of a long-dead gentleman bound by old rules.
 
 ### [[Speech Impediment]] (Mental, 1 pt)
 
 **Mechanics:** The difficulties of all die rolls involving verbal communication are increased by two.
 
-**Presentation:** Caliban is physically and psychologically incapable of speaking above a whisper. His voice is always low, dry, and close, forcing others to lean in or quiet down if they want to hear him. When he is forced to raise his voice (gunfire, chaos, arguments), the words catch and break in his throat. He may cough, stammer, or simply go silent, eyes wide with almost childlike panic at his own breach of decorum. This reinforces the Sluagh “Law of Whispers” and makes every spoken word feel intentional, intimate, and just a little invasive.
+**Presentation:** Caliban is physically and psychologically incapable of speaking above a whisper. His voice is always low, dry, and close, forcing others to lean in or quiet down if they want to hear him. When he is forced to raise his voice (gunfire, chaos, arguments), the words catch and break in his throat. He may cough, stammer, or simply go silent, eyes wide with almost childlike panic at his own breach of decorum. This reinforces the [[Sluagh]] “Law of Whispers” and makes every spoken word feel intentional, intimate, and just a little invasive.
 
 ### [[Eerie Presence]] (Supernatural, 2 pts)
 
@@ -214,7 +214,7 @@ Caliban’s flaws are not random weaknesses; they are facets of his Sluagh-like 
 
 **Mechanics:** Difficulties for all rolls involving social interaction with strangers are increased by two. If he becomes the center of attention in a large group, difficulties are increased by three.
 
-**Presentation:** Caliban does not initiate social contact unless ritual demands it. In crowds, he clings to walls, doorframes, and corners, observing until someone *invites* him in—literally or figuratively. When addressed unexpectedly, he averts his eyes for a heartbeat, smoothing his lapel or cuff before responding. This shyness is not cute or bumbling; it is brittle, haunted. The Sluagh etiquette in his head insists that he is an intruder in any social space until properly welcomed, and he will endure significant inconvenience rather than impose.
+**Presentation:** Caliban does not initiate social contact unless ritual demands it. In crowds, he clings to walls, doorframes, and corners, observing until someone *invites* him in—literally or figuratively. When addressed unexpectedly, he averts his eyes for a heartbeat, smoothing his lapel or cuff before responding. This shyness is not cute or bumbling; it is brittle, haunted. The [[Sluagh]] etiquette in his head insists that he is an intruder in any social space until properly welcomed, and he will endure significant inconvenience rather than impose.
 
 ### [[Nightmares]] (Mental, 1 pt)
 
@@ -230,7 +230,7 @@ Caliban’s flaws are not random weaknesses; they are facets of his Sluagh-like 
 
 ---
 
-## Derangement: Obsessive Ritualism (Sluagh Etiquette)
+## Derangement: Obsessive Ritualism ([[Sluagh]] Etiquette)
 
 His madness is not loud or chaotic; it is a suffocating lattice of rules, taboos, and courtesies that he *cannot* break without severe psychological distress. He moves through the World of Darkness as if it is an ancient, haunted court, governed by old laws that only he remembers. These rituals are how he keeps the howling, whispering chaos in his mind ordered and contained.
 

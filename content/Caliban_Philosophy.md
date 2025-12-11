@@ -5,7 +5,7 @@ Caliban believes the world (both Kindred and Kine) has become "soft, careless, a
 
 His goal is the **betterment of the world through trauma.** He breaks bones to ensure they knit back stronger. He terrifies the careless to teach them vigilance.
 
-## The Seelie Sluagh Connection (Twisted)
+## The Seelie [[Sluagh]] Connection (Twisted)
 
 In life, Caliban would have belonged to the **Seelie Court**—the faction of Changeling society dedicated to tradition, protection, and the preservation of the Dreaming. Even in death, his madness attempts to emulate the **Seelie Code**, though it is distorted by the curse of Caine.
 
@@ -26,10 +26,10 @@ In life, Caliban would have belonged to the **Seelie Court**—the faction of Ch
 
 ## The Methodology: "The Kindly Warning"
 
-Caliban operates on the Sluagh principle that **secrets are for saving, not just hoarding.**
+Caliban operates on the [[Sluagh]] principle that **secrets are for saving, not just hoarding.**
 
-* **The Unseelie Sluagh** hoards secrets to blackmail and destroy.
-* **The Seelie Sluagh (Caliban)** hoards secrets to deploy them as *warnings*.
+* **The Unseelie [[Sluagh]]** hoards secrets to blackmail and destroy.
+* **The Seelie [[Sluagh]] (Caliban)** hoards secrets to deploy them as *warnings*.
 
 When he uncovers a Prince's betrayal or a rival's weakness, he does not immediately use it for profit. He reveals it in a way that forces the recipient to grow.
 
