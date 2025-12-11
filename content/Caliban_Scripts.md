@@ -85,3 +85,23 @@ Below are practical, near-scripted behaviors Caliban falls back on. Used as a fo
   "I have stitched your silence for now. Do not tear it again. Next time, I will charge a higher price."  
 - If he kills, he does not gloat. He straightens his coat, bows slightly to the corpse, and murmurs:  
   "Quiet now. The worms have been waiting such a long time for you. Be polite."
+
+## Roleplay Tips & Mechanics
+
+### When the Words Won't Come (The "Poetry" Fallback)
+
+I don't always have to be Shakespeare. If I can't think of a clever metaphor, lean into the **physicality** and the **silence**.
+
+- **The Pause:** Instead of a clever line, just stare. Look at their neck, then their eyes. Let the silence stretch until *they* break it.
+- **The Clinical Observation:** Drop the metaphor and go purely literal but weird. Instead of "The shadows hunger," say "You are standing in a draft. It is unhealthy."
+- **The Tic:** Use the **Tic/Twitch** flaw. If stuck, just twitch head, smooth coat, and whisper, "Never mind. The moment has passed." It looks mysterious, even if I just blanked.
+- **The Notebook:** Pull out the notebook, scribble something furiously, and refuse to show them. It implies I know something they don't, without having to say a word.
+
+### Managing the "Whisper" at the Table
+
+Caliban's **Speech Impediment** (whispering) is atmospheric, but it can be annoying if players can't hear. Here is how to handle it without disrupting the game:
+
+- **The "Stage Whisper":** Don't actually whisper. Speak in normal volume, but use a **breathy, rasping tone**. Enunciate clearly. It *sounds* like a whisper to the ear, but carries across the table.
+- **Body Language:** Lean in. Physically signal the intimacy of a whisper by leaning toward the person being addressed. This cues the table that "this is a quiet moment" without having to be quiet.
+- **The "Listener's Burden":** If the table is loud, don't shout over them. **Stop talking.** Wait. Look at the person I am trying to talk to and make a "shhh" gesture or just wait for the noise to die down. Make *them* do the work of quieting the room to hear. It establishes dominance.
+- **Third-Person Description:** If I really can't be heard, switch to description: *"Caliban leans in close to the Brujah's ear, his voice like dry leaves, and says..."* then speak the line clearly.
