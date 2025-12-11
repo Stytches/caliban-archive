@@ -25,7 +25,7 @@ He views blood not just as fuel, but as **memory** and **momentum**. When he dri
 ### 3. The Guilty (The Confessional Tithe)
 
 * **Who:** Those hiding a secret that is eating them alive.
-* **Why:** Caliban can smell the rot of a bad conscience.
+* **Why:** Caliban imagines he can smell the rot of a bad conscience. *Given enough time, he may well accomplish this feat for real one day*
 * **Method:** He acts as a sin-eater. He drinks the blood that is tainted by their guilt. It is a heavy, bitter meal, but it sustains his own melancholy. He enjoys the irony of draining the life from someone who was already destroying themselves from the inside.
 
 ---
