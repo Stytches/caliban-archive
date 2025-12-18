@@ -112,7 +112,7 @@ Caliban operates as a "Good Nightmare," driven by a twisted Seelie code to stren
 - **Right Hand:** [[Sword_Cane|Gentleman's Sword Cane]] (Rapier)
 - **Left Hand:** [[Main_Gauche|Main-Gauche]] (Parrying Dagger)
 - **Clothing:** Threadbare but high-quality tweed suit, long wool coat (conceals dagger).
-- **Misc:** A silver cigarette case containing **12 silver coffin nails**, a notebook of "observations," a pair of grey silk gloves, [[Antique_Lockpicks|Antique Locksmith's Set]].
+- **Misc:** A silver cigarette case containing **12 silver coffin nails**, a notebook of "observations," a pair of grey silk gloves, [[Antique_Lockpicks|Antique Locksmith's Set]], [[Smelling_Salts|Vial of Smelling Salts]].
 
 ---
 
