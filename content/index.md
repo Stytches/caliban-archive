@@ -15,6 +15,8 @@
 - **Height:** 6'2"
 - **Weight:** 145 lbs
 
+![[Caliban.jpg]]
+
 [[Caliban_Character_Sheet.excalidraw]]
 
 ---
