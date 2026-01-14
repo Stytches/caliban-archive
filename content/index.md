@@ -15,6 +15,7 @@
 - **Height:** 6'2"
 - **Weight:** 145 lbs
 
+![[Caliban_Character_Sheet.excalidraw|1500]]
 ---
 
 ## Goals: [[Caliban_Philosophy|The Pedagogy of Dust]]
