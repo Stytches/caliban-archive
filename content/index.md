@@ -294,11 +294,18 @@ Since Caliban is a stealth specialist, his inability to enter without permission
 
 **Source:** 15 Base + 7 from Flaws ([[#Speech Impediment (Mental, 1 pt)|Speech Impediment]], [[#Eerie Presence (Supernatural, 2 pts)|Eerie Presence]], [[#Shy (Mental, 1 pt)|Shy]], [[#Nightmares (Mental, 1 pt)|Nightmares]], [[#Touch of Frost (Supernatural, 1 pt)|Touch of Frost]], [[#Tic / Twitch (Physical, 1 pt)|Tic/Twitch]])
 
-| Attribute / Ability | Move  | Cost Calculation | Points Spent | Result on Sheet                                            |
-| ------------------- | ----- | ---------------- | ------------ | ---------------------------------------------------------- |
-| Intelligence        | 2 → 3 | 5 pts per dot    | 5 pts        | Intelligence 3 (Capable Scholar)                           |
-| Stealth             | 3 → 4 | 2 pts per dot    | 2 pts        | Stealth 4 (Master of Shadows)                              |
-| Obfuscate           | 1 → 2 | 7 pts per dot    | 7 pts        | Obfuscate 2 (Unseen Presence - Ambush ready)               |
-| Linguistics         | 0 → 1 | 2 pts per dot    | 2 pts        | Linguistics 1 (Latin)                                      |
-| Academics           | 1 → 2 | 2 pts per dot    | 2 pts        | Academics 2 (Research & History)                           |
-| Willpower           | 4 → 8 | 1 pt per dot     | 4 pts        | Willpower 8 (Unshakeable Resolve)                          |
+| Attribute / Ability | Move  | Cost Calculation | Points Spent | Result on Sheet                              |
+| ------------------- | ----- | ---------------- | ------------ | -------------------------------------------- |
+| Intelligence        | 2 → 3 | 5 pts per dot    | 5 pts        | Intelligence 3 (Capable Scholar)             |
+| Stealth             | 3 → 4 | 2 pts per dot    | 2 pts        | Stealth 4 (Master of Shadows)                |
+| Obfuscate           | 1 → 2 | 7 pts per dot    | 7 pts        | Obfuscate 2 (Unseen Presence - Ambush ready) |
+| Linguistics         | 0 → 1 | 2 pts per dot    | 2 pts        | Linguistics 1 (Latin)                        |
+| Academics           | 1 → 2 | 2 pts per dot    | 2 pts        | Academics 2 (Research & History)             |
+| Willpower           | 4 → 8 | 1 pt per dot     | 4 pts        | Willpower 8 (Unshakeable Resolve)            |
+## Level Advancement Expenses
+
+| Attribute / Ability | Move  | Cost Calculation | Points Spent | Result on Sheet                          |
+| ------------------- | ----- | ---------------- | ------------ | ---------------------------------------- |
+| [[Auspex]]          | 1 → 2 | current x 5      | 5 pts        | [[Auspex#Level 2 Aura Perception]]       |
+| Empathy             | 3 → 4 | current x 2      | 6 pts        | Empathy > Insight Specialty              |
+| Subterfuge          | 2 → 3 | current x 2      | 4 pts        | Subterfuge 3 (Competent: Scholar of Law) |
