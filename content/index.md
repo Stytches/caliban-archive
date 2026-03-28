@@ -60,8 +60,8 @@ Caliban operates as a "Good Nightmare," driven by a twisted Seelie code to stren
 ### Talents
 
 - **Alertness:** 3  
-- **Empathy:** 3  
-- **Subterfuge:** 2  
+- **Empathy:** 4 (Insight) 
+- **Subterfuge:** 3 (Competent: Scholar of Law)
 - **Athletics:** 1  
 
 ### Skills
@@ -85,8 +85,9 @@ Caliban operates as a "Good Nightmare," driven by a twisted Seelie code to stren
 
 ### Disciplines
 
-- **[[Auspex]]:** 1
+- **[[Auspex]]:** 2
   - [[Auspex#Level 1: Heightened Senses|Heightened Senses]]
+  - [[Auspex#Level 2 Aura Perception|Aura Perception]]
 - **[[Dementation]]:** 1
   - [[Dementation#Level 1: Passion|Passion]]
 - **[[Obfuscate]]:** 2
